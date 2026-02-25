@@ -2,7 +2,8 @@
 Analista de Qualidade de Software
 
 - 🔭 Trabalhando atualmente como *Analista de Qualidade de software* na [Vsoft](https://www.vsoft.com.br/)
-- 🌱 Estudando sobre C#, .NET, SQL Server e automação de testes
+- 🌱 Estudando sobre C#, .NET, SQL Server e automação de testes e python
+- Trabalhando e estudando com IA generativa, agentes, RAG e MCP
 
   🖥 Linkedin: [Julião Medeiros](https://www.linkedin.com/in/juliaomedeiros/)
 
